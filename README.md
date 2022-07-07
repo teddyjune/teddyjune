@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-ff0000?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/vue.js-7fffd4?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-ee82ee?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
