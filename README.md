@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddyjune&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=teddyjune)](https://velog.io/@teddyjune)
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <p align="center"> Techs that I've used at least once </p>
