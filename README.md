@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
   
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyjune&show_icons=true&theme=blue-green)
+![teddyjune's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyjune&show_icons=true&theme=blue-green)
 <br>
 
 
