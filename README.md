@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddyjune&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![teddyjune's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyjune&show_icons=true&theme=blue-green)
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
   
 </p>
-![teddyjune's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddyjune&show_icons=true&theme=blue-green)
+
 <br>
 
 
